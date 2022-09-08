@@ -14,8 +14,13 @@
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 
-<h4>Click the button below to deploy Prime on Heroku!</h4>    
+# Deployment on Heroku or VPS
 
+<details>
+<summary><b> 🚀 Heroku Deployment</b></summary>
+<br>
+
+<h4>Click the button below to deploy yukki on Heroku!</h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/IrhamFadzillah/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
